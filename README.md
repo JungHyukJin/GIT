@@ -4,11 +4,9 @@
 
 ---
 
-
-
 ## Git Bash 실행 후 사용자 설정
 
-- 깃 헙 사용자 모두 설정필요
+- 깃 헙 사용자 모두 설정 필요
 
 ```
 git config --global user.email "가입된 이메일"
@@ -25,8 +23,6 @@ git config --global user.name "깃헙이름"
 ```
 
 ---
-
-
 
 ## Project Manager
 
@@ -47,8 +43,6 @@ git config --global user.name "깃헙이름"
 
 ---
 
-
-
 ## Collaborators (Contributors)
 
 ```
@@ -64,9 +58,7 @@ git config --global user.name "깃헙이름"
 
 ---
 
-
-
-## Branch 설정 (Contributors only)
+## Branch 설정
 
 ![branch](README.assets/branch.png)
 
@@ -79,9 +71,7 @@ git config --global user.name "깃헙이름"
 
 ---
 
-
-
-## git bash를 사용하여 깃헙에 업로드하기
+## git bash를 사용하여 깃허브에 업로드하기
 
 ```
 1. git add . ( .은 모든 파일을 뜻함 / git add시, lf가 crlf로 바뀐다는 경고가 뜸 >> 무시해도 됨)
@@ -93,8 +83,6 @@ git config --global user.name "깃헙이름"
 ```
 
 ---
-
-
 
 ## 기타 명령어
 
