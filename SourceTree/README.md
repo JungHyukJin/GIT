@@ -1,4 +1,4 @@
-# SourceTree - CLI
+# SourceTree - CLI					   - 2020.02.10
 
 - unstaged(working copy) : 수정된 파일들의 리스트가 표시되는 공간
 - staged (index *or* staging area) : 중간단계, 커밋 시 만들어질 버전에 합류할 파일들을 모아놓은 공간
@@ -21,4 +21,3 @@
   - Reset - hard: 선택한 버전으로 돌아가고, 현재 파일상태와 상관없이 그 이후의 버전 + 파일 전부 삭제.
   - Reset - mixed: 선택한 버전으로 돌아가고, 현재 파일 상태는 uncommited changes로 남긴다.
 - Discard: 현재 파일 수정 후 저장된 상태에서, commit을 하지 않았다면, 다시 직전의 파일로 돌아갈 수 있다.
-- 
